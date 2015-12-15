@@ -27,8 +27,8 @@ A Raspberry Pi living in my garage, doing garage things. Based off Drisocity's [
 ```
 
 # Potential ideas
- - Add Raspi camera module :ballot_box_with_check:
- - Add temperature sensor :ballot_box_with_check:
+ - Add Raspi camera module :white_check_mark:
+ - Add temperature sensor :white_check_mark:
  - Add logging capability (store ups/downs, possibly ip address of request?)
    - Include times when the garage is opened/closed, but the raspi isn't used
  - Push notifications
