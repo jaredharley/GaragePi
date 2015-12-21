@@ -15,7 +15,7 @@ A Raspberry Pi living in my garage, doing garage things. Based off Drisocity's [
  - [Disabled power management][4] on the wifi adapter
  - Connected sensors, relay, and LED lights on breadboard
  - Downloaded and installed [Adafruit_Python_DHT][6] to read the DHT11 sensor
- - Installed Django for web development
+ - Installed [Django 1.9](https://docs.djangoproject.com/en/1.9/intro/install) for web development
 
 ## Disabling power management
  - Create a `8192cu.conf` file in `/etc/modprobe.d/`
