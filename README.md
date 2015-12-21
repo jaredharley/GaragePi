@@ -31,6 +31,7 @@ A Raspberry Pi living in my garage, doing garage things. Based off Drisocity's [
  - Add temperature sensor :white_check_mark:
  - Add logging capability (store ups/downs, possibly ip address of request?)
    - Include times when the garage is opened/closed, but the raspi isn't used
+ - Integrate with HomeKit/[HomeBridge](http://www.kramnameloc.com/control-led-with-homebridge)
  - Push notifications
    - Door has been open more than x minutes
  
